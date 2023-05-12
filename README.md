@@ -29,6 +29,7 @@ There are three tests :
 3) To PUT an update of price of the given product
 
 ```
+cd .\tests\
 mocha test.js --timeout 100000
 ```
 
