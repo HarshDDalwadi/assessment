@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Declan Dickson",
+    "description": "This is the description 1",
+    "price": 10
+  },
+  {
+    "name": "Zeph Wilder",
+    "description": "This is the description 2",
+    "price": 20
+  },
+  {
+    "name": "Yuri Carrillo",
+    "description": "This is the description 3",
+    "price": 30
+  },
+  {
+    "name": "Thane Hudson",
+    "description": "This is the description 4",
+    "price": 40
+  },
+  {
+    "name": "Madeson Rich",
+    "description": "This is the description 5",
+    "price": 50
+  },
+  {
+    "name": "Moana Carpenter",
+    "description": "This is the description 6",
+    "price": 60
+  },
+  {
+    "name": "Hedda Lee",
+    "description": "This is the description 7",
+    "price": 70
+  },
+  {
+    "name": "Xandra Mcdaniel",
+    "description": "This is the description 8",
+    "price": 80
+  },
+  {
+    "name": "Silas Davenport",
+    "description": "This is the description 9",
+    "price": 90
+  },
+  {
+    "name": "Benjamin Alvarado",
+    "description": "This is the description 10",
+    "price": 100
+  }
+]
