@@ -29,6 +29,6 @@ There are three tests :
 3) To PUT an update of price of the given product
 
 ```
-mocha test.js --temout 100000
+mocha test.js --timeout 100000
 ```
 
